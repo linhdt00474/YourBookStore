@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcIdZYrXYFIKp4BShkA/rvRSYViBUKBWBtPg3qRKUcTt+e4JmAE037c+NhXYhldzETkQfaQhbj09M4duwO+EdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linhd\\source\\repos\\YourBookStore\\YourBookStore\\YourBookStore.iOS\\YourBookStore.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linhd\\.nuget\\packages\\siaqodb\\5.5.0.11\\siaqodb.5.5.0.11.nupkg.sha512",
+    "C:\\Users\\linhd\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

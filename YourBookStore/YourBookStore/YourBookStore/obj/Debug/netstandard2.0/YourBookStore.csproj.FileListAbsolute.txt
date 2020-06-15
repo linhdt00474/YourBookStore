@@ -1,0 +1,11 @@
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\bin\Debug\netstandard2.0\YourBookStore.deps.json
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\bin\Debug\netstandard2.0\YourBookStore.dll
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\YourBookStore.csprojAssemblyReference.cache
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\YourBookStore.AssemblyInfoInputs.cache
+C:\Users\linhd\source\repos\YourBookStore\YourBookStore\YourBookStore\obj\Debug\netstandard2.0\YourBookStore.AssemblyInfo.cs
